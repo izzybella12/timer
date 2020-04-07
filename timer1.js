@@ -14,5 +14,3 @@ let timerFunction = function(numbers) {
 };
 
 timerFunction(time);
-
-
